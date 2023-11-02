@@ -1,15 +1,20 @@
 {
-    "announcements": [
-        {
-            "title": "Announcement 1",
-            "content": "Content for Announcement 1",
-            "date": "2023-11-02"
-        },
-        {
-            "title": "Announcement 2",
-            "content": "Content for Announcement 2",
-            "date": "2023-11-03"
-        }
-        // Note the missing comma here
-    ]
+   "announcements": [
+       {
+           "title": "Important Update 1",
+           "content": "This is the content of the first announcement.",
+           "date": "2023-11-02"
+       },
+       {
+           "title": "Important Update 2",
+           "content": "This is the content of the second announcement.",
+           "date": "2023-11-03"
+       },
+       {
+           "title": "Important Update 3",
+           "content": "This is the content of the third announcement.",
+           "date": "2023-11-04"
+       }
+       // Add more announcements as needed, each separated by a comma
+   ]
 }
