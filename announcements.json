@@ -1,9 +1,19 @@
 {
    "announcements": [
        {
-           "title": "Beta V1.1",
-           "content": "Added a blog page, About page, and an Announcements page.",
+           "title": "Beta v1.1",
+           "content": "Added a about page, announcements page, and a blog page.",
            "date": "2023-11-02"
-    },
-      {
-      }
+       },
+       {
+           "title": "Important Update 2",
+           "content": "This is the content of the second announcement.",
+           "date": "2023-11-03"
+       },
+       {
+           "title": "Important Update 3",
+           "content": "This is the content of the third announcement.",
+           "date": "2023-11-04"
+       }
+   ]
+}
