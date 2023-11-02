@@ -15,6 +15,5 @@
            "content": "This is the content of the third announcement.",
            "date": "2023-11-04"
        }
-       // Add more announcements as needed, each separated by a comma
    ]
 }
